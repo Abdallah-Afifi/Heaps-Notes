@@ -37,7 +37,6 @@
     - Ensure understanding the difference between max and min heaps.
     - Pay attention to index calculations when implementing heap operations.
 
-Certainly! Let's delve into the details of insertion, building, deletion, and removal, along with illustrations on how to calculate the number of comparisons for each operation.
 
 ### Insertion:
 
