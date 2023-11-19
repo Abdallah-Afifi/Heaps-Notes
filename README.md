@@ -93,8 +93,6 @@
 - **Number of Comparisons:**
   - Similar to insertion and deletion, in the worst case, the number of comparisons is O(log n) where n is the number of elements in the heap.
 
-Certainly! Here are more notes on the structure of heaps:
-
 ### 1. **Complete Binary Tree:**
    - A binary heap is a complete binary tree, meaning all levels of the tree are fully filled, except possibly the last level, which is filled from left to right.
 
