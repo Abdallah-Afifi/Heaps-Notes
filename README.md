@@ -99,9 +99,9 @@
 ### 2. **Array Representation:**
    - Binary heaps can be efficiently represented using an array.
    - For a node at index i:
-      - Its left child is at index 2i + 1.
-      - Its right child is at index 2i + 2.
-      - Its parent is at index floor((i-1)/2).
+      - Its left child is at index 2i.
+      - Its right child is at index 2i + 1.
+      - Its parent is at index floor((i)/2).
 
 ### 3. **Height of a Heap:**
    - The height of a heap with n elements is O(log n).
